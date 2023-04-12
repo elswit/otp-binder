@@ -6,6 +6,6 @@ Use this button to run try ODE-Test-Problems in a stand-alone Jupyter Notebook e
 
 This Notebook includes the following examples: 
 
-  * Running forward problem and plotting thr solution plots
+  * Running forward problem and plotting the solution plots
 
 The [example notebook](index.ipynb) is adpated from [binder-examples/octave](https://github.com/binder-examples/octave) repository.
