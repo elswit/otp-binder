@@ -8,4 +8,4 @@ This Notebook includes the following examples:
 
   * Running forward problem and plotting the solution plots
 
-The [example notebook](index.ipynb) is adpated from [binder-examples/octave](https://github.com/binder-examples/octave) repository.
+The [example notebook](quick-start.ipynb) is adpated from [binder-examples/octave](https://github.com/binder-examples/octave) repository.
