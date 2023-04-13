@@ -1,9 +1,3 @@
-channels:
-  - conda-forge
-  - defaults
 dependencies:
-  - jupyterlab
-  # Required by the SageMath kernel in Jupyter
-  - ipywidgets
   - octave
   - octave_kernel
