@@ -1,4 +1,4 @@
-# Runing ODE-Test Problems examples on binder
+# ODE-Test Problems on binder
 
 Use this button to run try ODE-Test-Problems in a stand-alone Jupyter Notebook environment: 
 
