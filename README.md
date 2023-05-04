@@ -1,13 +1,12 @@
 # ODE-Test Problems on binder
 
-Use this button to run try ODE-Test-Problems in a stand-alone Jupyter Notebook environment: 
+Use this button to run try ODE-Test-Problems in a stand-alone Jupyter Notebook environment (This will be use xeus-octave)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elswit/xeus-octave-fork.git/HEAD?labpath=%2Fnotebooks%2Fquick-start.ipynb)
 
-This Notebook includes the following examples: 
+And this will use a meta kernel
 
-  * Running ODE test problems and plotting the solutions
-  * Changing the parameters of the problem and solvers
-  * 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elswit/otp-binder.git/HEAD?labpath=%2Fnotebooks%2Fquick-start.ipynb)
+
 
 The [example notebook](quick-start.ipynb) is adpated from [binder-examples/octave](https://github.com/binder-examples/octave) repository.
