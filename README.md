@@ -13,4 +13,4 @@ The [example notebook](quick-start.ipynb) is adpated from [binder-examples/octav
 
 This one is the fastest: 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elswit/otp-binder.git)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elswit/otp-binder.git/1a976a4)
