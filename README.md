@@ -10,3 +10,7 @@ And this will use a meta kernel
 
 
 The [example notebook](quick-start.ipynb) is adpated from [binder-examples/octave](https://github.com/binder-examples/octave) repository.
+
+This one is the fastest: 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elswit/otp-binder.git)
